@@ -1,3 +1,7 @@
+# Used FireBase as BackEnd, Material UI and React-Flip-Move for tweet transition !
+
+![](https://github.com/CalvinJamesHeath/Twitter-Clone-React-App/blob/main/twitter-clone/src/img.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
